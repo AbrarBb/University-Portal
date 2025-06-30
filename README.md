@@ -1,1 +1,2 @@
-# University-Portal-
+# University-Portal
+The EWU Student Portal is a Console-based platform designed to streamline student interactions with East West University's administrative services. This project aims to enhance user experience by providing easy access to academic resources, course registration, grades, and a comprehensive software solution designed to manage various aspects of university operations, including student records, course management, faculty data, and advising. The project aims to streamline university administrative tasks, improve data accuracy, and enhance user experience for students, faculty, and administrators.
